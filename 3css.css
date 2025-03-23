@@ -1,0 +1,9 @@
+<p class="red" style="color:rgb(255, 0, 0)">Это красный текст</p>
+<p class="green" style="color:rgb(0, 255, 13)">Это зелёный текст</p>
+<ul>
+    <li class="green" style="color:rgb(0, 255, 13)">Этот элемент списка зелёный</li>
+    <ol>
+        <li class="red" style="color:rgb(255, 0, 0)">Этот элемент подсписка красный</li>
+        <li class="blue" style="color: blue;"> Этот элемент подсписка синий </li>
+    </ol>
+</ul>

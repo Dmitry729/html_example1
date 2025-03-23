@@ -1,0 +1,19 @@
+<p class="red" style="color:rgb(128, 0, 0)">Это красный текст</p>
+<p class="red" style="color:rgb(128, 0, 0)">Это тоже красный текст</p>
+<ul>
+    <li style="color: #fffb00;">Элемент списка</li>
+        <ol>
+            <li style="color:blue">Первый элемент подсписка</li>
+            <li style="color:rgb(223, 62, 161)">Второй элемент подсписка</li>
+        </ol>
+    <li style="color:green">Ещё один элемент списка</li>
+</ul>
+<p>
+    <span class="xx-large">В</span> 
+    <span class="x-large">этом</span>
+    <b class="large">абзаце</b> 
+    <span class="xlarge">все</span>
+    <span class="smaller">слова</span>
+    <span class="small">разного</span> 
+    <span class="x-small">размера</span>
+</p>
